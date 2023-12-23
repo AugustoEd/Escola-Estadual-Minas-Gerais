@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\WFUdemy\Vetores\bin\Debug\net6.0\Vetores.exe
+C:\Users\user\Desktop\WFUdemy\Vetores\bin\Debug\net6.0\Vetores.deps.json
+C:\Users\user\Desktop\WFUdemy\Vetores\bin\Debug\net6.0\Vetores.runtimeconfig.json
+C:\Users\user\Desktop\WFUdemy\Vetores\bin\Debug\net6.0\Vetores.dll
+C:\Users\user\Desktop\WFUdemy\Vetores\bin\Debug\net6.0\Vetores.pdb
+C:\Users\user\Desktop\WFUdemy\Vetores\obj\Debug\net6.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\WFUdemy\Vetores\obj\Debug\net6.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\WFUdemy\Vetores\obj\Debug\net6.0\Vetores.AssemblyInfo.cs
+C:\Users\user\Desktop\WFUdemy\Vetores\obj\Debug\net6.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WFUdemy\Vetores\obj\Debug\net6.0\Vetores.dll
+C:\Users\user\Desktop\WFUdemy\Vetores\obj\Debug\net6.0\refint\Vetores.dll
+C:\Users\user\Desktop\WFUdemy\Vetores\obj\Debug\net6.0\Vetores.pdb
+C:\Users\user\Desktop\WFUdemy\Vetores\obj\Debug\net6.0\Vetores.genruntimeconfig.cache
+C:\Users\user\Desktop\WFUdemy\Vetores\obj\Debug\net6.0\ref\Vetores.dll
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\bin\Debug\net6.0\Vetores.exe
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\bin\Debug\net6.0\Vetores.deps.json
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\bin\Debug\net6.0\Vetores.runtimeconfig.json
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\bin\Debug\net6.0\Vetores.dll
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\bin\Debug\net6.0\Vetores.pdb
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\obj\Debug\net6.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\obj\Debug\net6.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\obj\Debug\net6.0\Vetores.AssemblyInfo.cs
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\obj\Debug\net6.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\obj\Debug\net6.0\Vetores.dll
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\obj\Debug\net6.0\refint\Vetores.dll
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\obj\Debug\net6.0\Vetores.pdb
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\obj\Debug\net6.0\Vetores.genruntimeconfig.cache
+C:\Users\user\Desktop\Pasta Geral\Projetos\C#\Console C#\Programa E.E.M.G\obj\Debug\net6.0\ref\Vetores.dll
